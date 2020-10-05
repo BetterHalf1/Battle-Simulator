@@ -1,0 +1,8 @@
+Pokemon,hp,thp,lvl,att,de,spAtt,spDe,sp,typ,move1
+Charizard,153,153,50,104,98,109,85,120,Fire/Flying,Slash/Flamethrower/Aerial Ace/Dragon Pulse
+Electivire,150,150,50,143,87,115,105,115,Electric,Thunderbolt/Ice Punch/Splash/Karate Chop
+Garchomp,183,183,50,150,115,100,105,122,Dragon/Ground,Earthquake/Dragon Pulse/Dragon Claw/Stone Edge
+Lucario,145,145,50,130,90,135,90,110,Fighting/Steel,Aura Sphere/Close Combat/Dark Pulse/Metal Claw
+Tyranitar,175,175,50,154,130,115,120,81,Rock/Dark,Stone Edge/Earthquake/Dark Pulse/Thrash
+Dragonite,166,166,50,154,115,120,120,100,Dragon/Flying,Dragon Pulse/Aerial Ace/Ice Beam/Thunderbolt
+P1 Name:,Nathan,P2 Name,Kenneth,x,x,x,x,x,x,x
